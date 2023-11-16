@@ -2,7 +2,7 @@
   "name": "demo-pwa",
   "description": "Demo progressive web application",
   "version": "1.0.2",
-  "author": "https://github.com/gokulkrishh",
+  "author": "Jordan",
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
